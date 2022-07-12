@@ -11,8 +11,7 @@ methods to allow consistency in the company programs. Your class should meet the
 the following list:
  String data members for last name and first name
  Character data for department
-- Departments are categorized as:
-
+<br> Departments are categorized as:
 <br>A – Management
 <br>B – Finance
 <br>C - Marketing
@@ -36,6 +35,7 @@ Department Rate of Pay Range (per hour)
 <br>B P180.00 – 199.00
 <br>C P150.00 – 179.00
 <br>
+<br>
 In the main() method, create a MENU where users can:
 <br>
 <br>[1] – Add new Employee record
@@ -43,5 +43,3 @@ In the main() method, create a MENU where users can:
 <br>[3] – Delete Employee record
 <br>[4] – View all Employee records
 <br>[5] - Exit
-Loop the entire program until user choose [5] – Exit (add this in the MENU).
-All values for the data members MUST be from the users’ ENTRY.
