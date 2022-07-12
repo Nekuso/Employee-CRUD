@@ -13,30 +13,35 @@ the following list:
  Character data for department
 - Departments are categorized as:
 
-o A – Management
-o B – Finance
-o C - Marketing
+<br>A – Management
+<br>B – Finance
+<br>C - Marketing
 
- Double data member for rate of pay
- Public method to calculate the employee pay
+<br>
+ Double data member for rate of pay<br>
+ Public method to calculate the employee pay<br>
 
-– This method should ask the user to enter for the number of hours worked during the
+- This method should ask the user to enter for the number of hours worked during the
 week, calculates the pay amount, and displays the weekly salary. Hours worked
 greater than 40 should be paid double. (rate of pay * hours worked)
+<br>
  Other necessary setter and getter methods
+<br>
 - Note that rate of pay is observed the following bracket, ensure that the setter
 method validates the inputted rate of pay. You may have an if statement in your
 setter method to validate set values.
 Department Rate of Pay Range (per hour)
 
-A P 200.00 – 250.00
-B P 180.00 – 199.00
-C P 150.00 – 179.00
-
+<br>A P200.00 – 250.00
+<br>B P180.00 – 199.00
+<br>C P150.00 – 179.00
+<br>
 In the main() method, create a MENU where users can:
-[1] – Add new Employee record
-[2] – Modify Employee record
-[3] – Delete Employee record
-[4] – View all Employee records
+<br>
+<br>[1] – Add new Employee record
+<br>[2] – Modify Employee record
+<br>[3] – Delete Employee record
+<br>[4] – View all Employee records
+<br>[5] - Exit
 Loop the entire program until user choose [5] – Exit (add this in the MENU).
 All values for the data members MUST be from the users’ ENTRY.
