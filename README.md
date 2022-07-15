@@ -24,7 +24,7 @@ the following list:
 week, calculates the pay amount, and displays the weekly salary. Hours worked
 greater than 40 should be paid double. (rate of pay * hours worked)
 <br>
- Other necessary setter and getter methods
+- Other necessary setter and getter methods
 <br>
 - Note that rate of pay is observed the following bracket, ensure that the setter
 method validates the inputted rate of pay. You may have an if statement in your
