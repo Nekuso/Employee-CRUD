@@ -16,6 +16,7 @@ the following list:
 <br>B – Finance
 <br>C - Marketing
 
+
 <br>
  Double data member for rate of pay<br>
  Public method to calculate the employee pay<br>
