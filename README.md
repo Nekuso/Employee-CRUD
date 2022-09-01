@@ -31,6 +31,7 @@ method validates the inputted rate of pay. You may have an if statement in your
 setter method to validate set values.
 Department Rate of Pay Range (per hour)
 
+
 <br>A P200.00 – 250.00
 <br>B P180.00 – 199.00
 <br>C P150.00 – 179.00
